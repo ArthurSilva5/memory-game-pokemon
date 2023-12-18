@@ -1,0 +1,9 @@
+@font-face {
+    font-family: fontesPokemon;
+    src: url("./Pokemon\ Hollow.ttf");
+}
+
+h1{
+    font-family: fontesPokemon;
+    color: red;
+}

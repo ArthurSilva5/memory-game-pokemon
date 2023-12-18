@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+}
+
+.tabuleiro{
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.card{
+    border: 3px solid #1D9E30;
+    width: 18%;
+    height: 20vh;
+    margin: 10px 5px;
+    transition: transform 2s ease;
+    cursor: pointer;
+    box-shadow: 3px 3px 3px rgba(19, 18, 18, 0.239);
+}
+
+.card-back{
+    height: 100%;
+    width: 100%;
+}
+
+.card-imagem{
+    height: 80%;
+    width: 100%;
+}
+
+.card-titulo{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+@media screen and (max-width: 480px) {
+    .card{
+        width: 20%;
+        height: 15vh;
+    }
+    .card-titulo{
+        font-size: 12px;
+    }
+}

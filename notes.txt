@@ -1,0 +1,4 @@
+Emojis de elemento:
+Fogo: <i class="bi bi-fire"></i>
+Água: <i class="bi bi-droplet"></i>
+Natureza: <i class="bi bi-tree-fill"></i>

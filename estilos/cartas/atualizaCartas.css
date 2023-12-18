@@ -1,0 +1,7 @@
+.desabilitaCarta{
+    pointer-events: none;
+}
+
+.habilitaCarta{
+    pointer-events: auto;
+}
