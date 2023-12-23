@@ -5,8 +5,8 @@ function validaJogada(primeiraEscolha, segundaEscolha){
         // Adiciona as duas escolhas em um array
         escolhasCorretas.push(primeiraEscolha,segundaEscolha);
         // Muda a cor da borda da carta dos pokémons
-        primeiraEscolha.style.borderColor = "#9BC977";
-        segundaEscolha.style.borderColor = "#9BC977";
+        primeiraEscolha.style.borderColor = "#CCFF33";
+        segundaEscolha.style.borderColor = "#CCFF33";
         // Remove essas escolhas do outro array
         escolhas.length = 0;
         // Percorre a lista de cartas e desbloqueia o clique nelas
@@ -17,9 +17,15 @@ function validaJogada(primeiraEscolha, segundaEscolha){
                 parDeEscolhas.style.pointerEvents = "none";
             })
         })
-        // Caso a lista de pares for igual a 20, ou seja, tenha 10 pares, encerra o jogo
-        if(escolhasCorretas.length === 20){
-            alert("Você venceu!");
+        // Caso a lista de pares for igual a 24, ou seja, tenha 12 pares, encerra o jogo
+        if(escolhasCorretas.length === 24){
+            setTimeout(() =>{
+                const popup = document.querySelector(".popup")
+                popup.classList.remove("desabilita-popup")
+                popup.classList.add("habilita-popup")
+                console.log(popup)
+
+            }, 500)
         }
     }
     // Caso as escolhas sejam diferentes

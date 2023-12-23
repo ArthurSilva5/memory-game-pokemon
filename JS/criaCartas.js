@@ -1,5 +1,5 @@
 // Cria uma lista com os pokémons que serão utilizados no projeto
-const pokemons = ["charmander", "squirtle", "bulbasaur", "totodile", "tepig", "cyndaquil", "treecko", "oshawott", "piplup", "snivy"]
+const pokemons = ["charmander", "squirtle", "bulbasaur", "totodile", "cyndaquil", "chikorita", "mudkip", "piplup", "chimchar", "tepig", "snivy", "oshawott"  ]
 const pokemonsDuplicados = pokemons.concat(pokemons);
 // Cria uma pequena função para embaralhar os itens do array
 function embaralhaPokemons(){

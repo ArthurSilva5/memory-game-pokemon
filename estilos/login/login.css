@@ -1,0 +1,44 @@
+@font-face {
+    font-family: pokemon;
+    src: url("../fontes/Pokemon\ Solid.ttf");
+}
+
+.login{
+    width: 40vw;
+    height: 60vh;
+    display: flex;
+    margin: auto;
+    margin-top: 20vh;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    background-color: #b3b3b3f5;
+    border-radius: 10px;
+}
+
+.login-titulo{
+    text-align: center;
+    font-family: pokemon, Verdana, sans-serif;
+    font-size: 1.8rem;
+    letter-spacing: 8px;
+    line-height: 40px;
+}
+
+.login-botao{
+    width: 50%;
+    font-family: pokemon, Verdana, sans-serif; ;
+    background-color: #FFE3A2;
+    font-size: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.login-botao:hover{
+    width: 70%;
+    font-size: 24px;
+}
+
+a{
+    display: block;
+    width: 100%;
+}
