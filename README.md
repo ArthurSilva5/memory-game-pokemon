@@ -31,12 +31,12 @@
 
 <p align="justify">
 O principal objetivo do projeto é desenvolver novos conhecimentos de programação, além de rever outros aprendizados, explorando conceitos como:
-  ✓ Integração com uma API;
-  ✓ Conhecimentos de animação no CSS;
-  ✓ Funções assíncronas e parâmetros no JavaScript;
-  ✓ Manipulação do DOM, utilizando as propriedades que o Javascript fornece;
-  ✓ Criação de Popups integrando CSS e Javascript;
-  ✓ Uso de padrões organizacionais nos arquivos, facilitando a manutenção do código.
+  ✓ Integração com uma API; <br>
+  ✓ Conhecimentos de animação no CSS; <br>
+  ✓ Funções assíncronas e parâmetros no JavaScript; <br>
+  ✓ Manipulação do DOM, utilizando as propriedades que o Javascript fornece; <br>
+  ✓ Criação de Popups integrando CSS e Javascript; <br>
+  ✓ Uso de padrões organizacionais nos arquivos, facilitando a manutenção do código. <br>
 </p>
 
 ## Ferramentas Utilizadas
