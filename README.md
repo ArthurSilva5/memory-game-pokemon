@@ -1,6 +1,7 @@
 <div align="center">
 <h1 align="center">Jogo da memória: Pokémons Iniciais</h1>
 <img src="./imagens/squirtle.gif" width="100%" height="300px"/>
+</div>
 
 <div align="center" style="margin-bottom: 20px;">
     :loudspeaker:  Projeto Finalizado  :loudspeaker:
@@ -61,3 +62,4 @@ Para acessar ao projeto, clique neste link: :paperclip: https://arthursilva5.git
 Obrigado pela atenção!
 </p>
 <img src="./imagens/iniciais.gif" width="100%" height="300px"/>
+
