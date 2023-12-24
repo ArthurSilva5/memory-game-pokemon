@@ -6,6 +6,8 @@
     :loudspeaker:  Projeto Finalizado  :loudspeaker:
 </div  
 
+<hr>
+
 ### Tópicos:
 
 - [Descrição do projeto](#descrição-do-projeto)
@@ -19,7 +21,6 @@
 <hr>
 
 ## Descrição do projeto 
-
 <p align="justify">
   O projeto consiste em um jogo da memória com a temática de pokémons iniciais do desenho Pokémon. Ao acessar à página, o usuário encontrará uma página de login, na qual poderá escolher entre começar o jogo ou verificar as regras.
   Ao clicar no botão de jogar, o usuário será direcionado para uma página com 24 cartas. Ao clicar em uma delas, a carta irá mostrar a imagem do pokémon. No segundo o clique, o jogador deverá tentar encontrar outra carta que contenha o mesmo pokémon clicado anteriormente, para formar um par. Quando o jogador formar 12 pares, vencerá o jogo!
@@ -41,12 +42,16 @@ O principal objetivo do projeto é desenvolver novos conhecimentos de programaç
   ✓ Uso de padrões organizacionais nos arquivos, facilitando a manutenção do código. <br>
 </p>
 
+<hr>
+
 ## Ferramentas Utilizadas
 
 <p align="justify>
 Editor de código: <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 Tecnologias: HTML5, CSS3 E JavaScript
 </p>
+
+<hr>
 
 ## Acesso ao projeto
 
