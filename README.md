@@ -23,7 +23,7 @@
 ## Descrição do projeto 
 <p align="justify">
   O projeto consiste em um jogo da memória com a temática de pokémons iniciais do desenho Pokémon. Ao acessar à página, o usuário encontrará uma página de login, na qual poderá escolher entre começar o jogo ou verificar as regras.
-  Ao clicar no botão de jogar, o usuário será direcionado para uma página com 24 cartas. Ao clicar em uma delas, a carta irá mostrar a imagem do pokémon. No segundo o clique, o jogador deverá tentar encontrar outra carta que contenha o mesmo pokémon clicado anteriormente, para formar um par. Quando o jogador formar 12 pares, vencerá o jogo!
+  Ao clicar no botão de jogar, o usuário será direcionado para uma página com 24 cartas. Ao clicar em uma delas, a carta irá mostrar a imagem do pokémon. No segundo o clique, o jogador deverá tentar encontrar outra carta que contenha o mesmo pokémon clicado anteriormente, para formar um par. Quando o jogador formar 12 pares, vencerá o jogo! <br>
 
   <img src="./imagens/tabuleiroImagem.png" width="100%" height="300px"/>
 </p>
