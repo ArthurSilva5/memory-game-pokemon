@@ -6,6 +6,8 @@
     :loudspeaker:  Projeto Finalizado  :loudspeaker:
 </div  
 
+### Tópicos:
+
 - [Descrição do projeto](#descrição-do-projeto)
 
 - [Conhecimentos Explorados](#conhecimentos-explorados)
@@ -30,7 +32,7 @@
 ## Conhecimentos Explorados
 
 <p align="justify">
-O principal objetivo do projeto é desenvolver novos conhecimentos de programação, além de rever outros aprendizados, explorando conceitos como:
+O principal objetivo do projeto é desenvolver novos conhecimentos de programação, além de rever outros aprendizados, explorando conceitos como: <br>
   ✓ Integração com uma API; <br>
   ✓ Conhecimentos de animação no CSS; <br>
   ✓ Funções assíncronas e parâmetros no JavaScript; <br>
@@ -50,6 +52,8 @@ Tecnologias: HTML5, CSS3 E JavaScript
 
 <p align="justify">
 Para acessar ao projeto, clique neste link: :paperclip: https://arthursilva5.github.io/memory-game-pokemon/ :paperclip:
-
+</p>
+<p align="justify">
 Obrigado pela atenção!
-  <img src="./imagens/iniciais.gif" width="100%" height="300px"/>
+</p>
+<img src="./imagens/iniciais.gif" width="100%" height="300px"/>
