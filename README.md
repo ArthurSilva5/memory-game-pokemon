@@ -47,8 +47,8 @@ O principal objetivo do projeto é desenvolver novos conhecimentos de programaç
 ## Ferramentas Utilizadas
 
 <p align="justify>
-Editor de código: <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-Tecnologias: HTML5, CSS3 E JavaScript
+Editor de código: Visual Studio Code. [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+Tecnologias: HTML5, CSS3 E JavaScript.
 </p>
 
 <hr>
