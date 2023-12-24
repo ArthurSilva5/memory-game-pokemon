@@ -47,11 +47,8 @@ O principal objetivo do projeto é desenvolver novos conhecimentos de programaç
 ## Ferramentas Utilizadas
 
 <p align="justify>
-Editor de código: Visual Studio Code.
-<a href="https://code.visualstudio.com/">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-</a>
-Tecnologias: HTML5, CSS3 E JavaScript.
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
 </p>
 
 <hr>
