@@ -1,0 +1,53 @@
+.regras{
+    background-color: #e2e3e5f0;
+    width: 70vw;
+    height: 80vh;
+    display: flex;
+    margin: auto;
+    margin-top: 10vh;
+    padding: 15px;
+    flex-direction: column;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 1px;
+    line-height: 25px;
+    border: 3px solid #FFE3A2;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px #2020207d;
+}
+
+.regras-cabecalho{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.btn-voltar-inicio{
+    background-color: gray;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.regras-titulo{
+    flex: 1;
+    text-align: center;
+    font-weight: bold;
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+
+.regras-conteudo{
+    text-align: justify;
+    font-size: 22px;
+}
+
+@media screen and (max-width: 520px){
+    .regras{
+        width: 90vw;
+    }
+    .regras-titulo{
+        font-size: 20px;
+    }
+    .regras-conteudo{
+        font-size: 18px;
+    }
+}

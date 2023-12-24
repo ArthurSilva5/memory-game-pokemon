@@ -23,8 +23,6 @@ function validaJogada(primeiraEscolha, segundaEscolha){
                 const popup = document.querySelector(".popup")
                 popup.classList.remove("desabilita-popup")
                 popup.classList.add("habilita-popup")
-                console.log(popup)
-
             }, 500)
         }
     }
