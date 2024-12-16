@@ -12,14 +12,15 @@ cartas.forEach((carta) =>{
 async function exibeCartas(carta){
     // Desabilita o clique na carta, impedindo o usuário de clicar duas vezes na mesma carta
     carta.style.pointerEvents = "none";
+    
     // Captura o nome do pokémon a partir de seu alt
     const nomeDoPokemonClicado = carta.firstElementChild.alt;
-    // Faz uma requisição para a pokeapi para capturar as informações do pokemon a partir de seu nome
-    const requisicao = await fetch(`https://pokeapi.co/api/v2/pokemon/${nomeDoPokemonClicado}`);
-    // Recebe os dados da api e converte pra json
-    const dados = await requisicao.json();
+
+    // guarda os dados do pokémon clicado
+    dados = dadosCarregados[`${nomeDoPokemonClicado}`];
+
     // A partir do json, captura o diretório da imagem do pokémon
-    const imagemDoPokemon = dados.sprites.front_default;
+    const imagemDoPokemon = dados.imagem;
     // Altera o conteúdo da carta, atribuindo a foto do pokémon e seu nome
     carta.innerHTML = `
         <img class="card-imagem" src="${imagemDoPokemon}" alt="${nomeDoPokemonClicado}">
